@@ -4,7 +4,7 @@
 
 ## Abstract:
 
-Harmful algal blooms (HABs) caused by cyanobacteria are increasingly threatening global freshwater ecosystems. This project aims to develop a machine learning-based system for forecasting cyanobacterial blooms, detecting environmental anomalies, and classifying high-risk regions for cyanotoxin exposure. Utilizing Python-based analytical tools, the project leverages time-series forecasting models (ARIMA, LSTM) and anomaly detection techniques (Isolation Forest, DBSCAN) to analyze satellite and environmental datasets.
+Harmful algal blooms (HABs) caused by cyanobacteria are increasingly threatening global freshwater ecosystems. This project aims to develop a machine learning-based system for forecasting cyanobacterial blooms, and detecting environmental anomalies. Utilizing Python-based analytical tools, the project leverages time-series forecasting models (ARIMA, LSTM) and anomaly detection techniques (Isolation Forest, DBSCAN) to analyze satellite and environmental datasets.
 
 ## Project Stages
 
