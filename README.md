@@ -1,6 +1,6 @@
 # Capstone Project
 
-# Integrating Predictive Analytics and Anomaly Detection for Cyanobacterial Bloom Forecasting
+# Forecasting Cyanobacterial Blooms Using Predictive Analytics and Anomaly Detection
 
 ## Abstract:
 
